@@ -24,9 +24,3 @@ node_modules/
 .env
 
 screenshots/
-
-html/
-
-build/
-
-dist/
