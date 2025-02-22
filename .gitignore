@@ -1,0 +1,32 @@
+# PyInstaller
+*.spec
+!CursorKeepAlive.mac.spec
+!CursorKeepAlive.win.spec
+
+# Python
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+venv/
+
+node_modules/
+
+.env
+
+screenshots/
+
+html/
+
+build/
+
+dist/
